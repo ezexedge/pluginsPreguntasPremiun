@@ -42,3 +42,4 @@ register_deactivation_hook( __FILE__, 'quizbook_examenes_remover_capabilities' )
 
 
 require_once plugin_dir_path(__FILE__) . 'includes/metaboxes.php';
+require_once plugin_dir_path(__FILE__) . 'includes/scripts.php';
