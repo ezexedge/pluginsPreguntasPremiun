@@ -1,3 +1,3 @@
 (function($){
-console.log('test')
+    $('.chosen-select').chosen(); 
 })(jQuery)
